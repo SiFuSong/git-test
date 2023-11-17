@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hot-fix分支合并的修改");
         System.out.println("master分支冲突合并的修改");
         System.out.println("hot-fix分支冲突合并的修改");
+        System.out.println("测试push到github远程库");
     }
 }
