@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Hello git3!");
         System.out.println("hot-fix分支合并的修改");
         System.out.println("master分支冲突合并的修改");
+        System.out.println("hot-fix分支冲突合并的修改");
     }
 }
